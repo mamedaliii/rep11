@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mamedaliii/nginx-custom:latest
+          tags: mamedali/rep11:latest
